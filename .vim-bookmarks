@@ -1,0 +1,3 @@
+let l:bm_file_version = 1
+let l:bm_sessions = {'default': {'/home/modred/webpack/NERD_tree_1': [{'sign_idx': 9511, 'line_nr': 1, 'content': '/home/modred/webpack/'},],'/home/modred/webpack/src/index.html': [{'sign_idx': 9510, 'line_nr': 21, 'content': '</html>'},],'/home/modred/webpack/src/styles/_feature.scss': [{'sign_idx': 9511, 'line_nr': 42, 'content': '  &_title{'},],'/home/modred/webpack/src/styles/_footer.scss': [{'sign_idx': 9512, 'line_nr': 97, 'content': '  @include bp-down(medium){'},{'sign_idx': 9513, 'line_nr': 110, 'content': ''},],'/home/modred/webpack/src/styles/_header.scss': [{'sign_idx': 9507, 'line_nr': 149, 'content': ''},],}}
+let l:bm_current_session = 'default'
